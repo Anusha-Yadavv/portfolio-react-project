@@ -8,8 +8,8 @@ function App() {
     <div className="root-container">
       <Header />
       <div className="body">
-        <Leftbar />
-        <Rightbar />
+        <Leftbar/>
+        <Rightbar/>
       </div>
     </div>
   );
